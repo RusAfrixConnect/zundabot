@@ -1,7 +1,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
-TOKEN = "7250640210:AAEWw1Zmi_jJv6KvTLBM4E3A_74L3WpwuQ0"
+TOKEN = ""TELEGRAM_TOKEN""
 
 # Devises avec drapeaux
 DEVIS = {
